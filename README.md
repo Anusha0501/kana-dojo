@@ -77,6 +77,14 @@ Next.js 15 · React 19 · TypeScript · Tailwind CSS · shadcn/ui · Zustand · 
 
 Contributions are welcome! Whether you're fixing bugs, adding features, improving documentation, or translating — check out [CONTRIBUTING.md](./CONTRIBUTING.md) to get started.
 
+## Star History
+
+<div align="center">
+
+[![Star History Chart](https://api.star-history.com/svg?repos=lingdojo/kana-dojo&type=Date)](https://star-history.com/#lingdojo/kana-dojo&Date)
+
+</div>
+
 ## License
 
 This project is licensed under the AGPL 3.0 License — see [LICENSE.md](./LICENSE.md) for details.
